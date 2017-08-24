@@ -1,0 +1,6 @@
+# Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+	#R: O diretorio de trabalho é o local onde ficão os arquivos que ainda estão em processo. A área de preparação é onde ficão os arquivos já forao trabalhados e virão a ser um novo commit, versão, do progeto. O repositório é onde ficão os commits já salvos.
+	    A área de preparação e essencial para a organisção e finalização do commits.
+
+	     
