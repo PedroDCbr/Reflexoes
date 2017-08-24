@@ -1,0 +1,44 @@
+# Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+	#R: O diff analisa as duas versões de um arquivo, me conseguindo mostras as diferenças e erros entre as duas.
+
+# Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+	#R: Podendo analizar todas suas alterações no arquivo, você tornaramais dinamico para encontrar erros cometidos e será mais facil voltar a uma ideia anterior.
+
+#Faça o commit de todas as alterações necessárias para adicionar um novo recurso, em que você está trabalhando há uma semana. Você não executou commits desde que começou a trabalhar nele.
+
+	#R: Esse commit parece muito grande. Será mais fácil entender o que cada commit faz se cada um fizer apenas uma coisa e for razoavelmente pequeno. Passar uma semana sem nenhum commit não é a melhor ideia.
+
+#Você encontrou três erros de digitação no seu README. Você corrige e faz o commit do primeiro.
+
+	#R:Esse commit parece muito pequeno. Seria melhor corrigir todos os três erros de digitação e depois executar o commit. Dessa forma, seu histórico não ficará muito poluído com erros de digitação. Além disso, você não precisa se preocupar em introduzir bugs em um README, por isso, reunir as alterações em um pacote provavelmente é uma boa ideia.
+
+#Você faz o commit de todas as alterações necessárias para adicionar um novo recurso, em que está trabalhando há uma hora.
+	
+	#R:Provavelmente, esse é um bom tamanho para um commit. Todo o trabalho é realizado em um único recurso, portanto, o commit terá um objetivo lógico claro. Depois de uma hora, o diff provavelmente terá uma quantidade razoável de conteúdo, mas não muito para entender.
+
+#Você corrige dois pequenos bugs em funções diferentes e faz o commit delas ao mesmo tempo.
+	
+	#R:Esse commit provavelmente é muito grande. Teria sido melhor executar o commit depois da correção do primeiro bug, pois as duas correções de bugs não estão relacionadas.
+
+#Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+	#R: Quando você tem que salvar manualmente, nessecita de uma boa disciplina para ponderar o tamanho e nessecidade dos commit. Ja o salvamento altomático cubrira essa disciplina, mas trara um excesso de commists.
+
+#Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+	#R:Poque ele e voltado para um tipo de trabalho que nessecita uma melhor dinamica de resoluções e interações entre diferentes arquivos e pela estrema nessecidade da interação entre esses arquivos.
+
+
+#Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+
+	#R: Com o comando "git log" se pode consultar todos os commits salvos, e sues IDs. Com o comando "git diff" se pode ver as alterações entre os commits utilizando seus IDs.
+
+#De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+
+	#R: Com o contole de verção posso facilmente identicicar e corrigir erro cometidos. Diminuindo assim minha preocupação em atualizar meu trabalho.
+
+# Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+	#R: 
