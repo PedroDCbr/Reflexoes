@@ -1,6 +1,16 @@
-# Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+// Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
 
-	#R: O diretorio de trabalho é o local onde ficão os arquivos que ainda estão em processo. A área de preparação é onde ficão os arquivos já forao trabalhados e virão a ser um novo commit, versão, do progeto. O repositório é onde ficão os commits já salvos.
+	//R: O diretorio de trabalho é o local onde ficão os arquivos que ainda estão em processo. A área de preparação é onde ficão os arquivos já forao trabalhados e virão a ser um novo commit, versão, do progeto. O repositório é onde ficão os commits já salvos.
 	    A área de preparação e essencial para a organisção e finalização do commits.
 
-	     
+// Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+	//R: Com a área de preparação se pode ir fazendo e salvanto alterações curtas e tendo o controle dessas pequenas alterações. Assim não tendo um volume abissurdo de commits.
+
+// Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+	//R: Para fazer mudanças na logica sem comprometer todo o conteudo ja feito. E ou mudanças para uma nova verção paralela.
+
+// Como os diagramas ajudam a visualizar a estrutura de branches?
+
+	//R: Com o diagrama se pode enchergar cada branche e de onde ele vem, com maior facilidade;
